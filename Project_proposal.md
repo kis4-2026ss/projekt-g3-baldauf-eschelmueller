@@ -21,22 +21,22 @@ It develops the whole project (with guidance from us). Claude, Gemini (backend) 
 	- Associated milestones
 - AI component
 	- System prompt
-Backend
-Logic
-Create form
-Collect questions
-Pass questions on to AI
-Receive training schedule from AI
-Integrate training schedule into website
-Create milestones from training schedule (weekly)
-Validate if milestones have been reached
-Frontend
-GUI
-Landing page
-User dashboard
-Training schedule aka. week planner
+- Backend
+	- Logic
+	- Create form
+	- Collect questions
+	- Pass questions on to AI
+	- Receive training schedule from AI
+	- Integrate training schedule into website
+	- Create milestones from training schedule (weekly)
+	- Validate if milestones have been reached
+- Frontend
+	- GUI
+		- Landing page
+		- User dashboard
+		- Training schedule aka. week planner
 
-Teamwork and responsibilities
+**Teamwork and responsibilities**
 Estimated time: 13 – 15 hrs
 To be continued…
 
