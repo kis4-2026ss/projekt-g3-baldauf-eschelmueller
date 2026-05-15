@@ -11,17 +11,18 @@ For milestones, achievements will be granted.
 
 **How does AI assistance contribute to the development process?**
 
-It develops the whole project (with guidance from us). Claude, Gemini (backend) and Figma make (frontend).
+It develops the whole project (with guidance from us). Claude, Gemini will be used for the backend and Figma Make will be utilised for the frontend.
 
- 
+![project diagram](project_diagram.png)
+ 
 **Project plan**
-- Database
+- Database (tentative deadline: 19.5.2026)
 	- Users
 	- Associated training schedules
 	- Associated milestones
 - AI component
 	- System prompt
-- Backend
+- Backend (tentative deadline: 25.5.2026)
 	- Logic
 	- Create form
 	- Collect questions
@@ -30,7 +31,7 @@ It develops the whole project (with guidance from us). Claude, Gemini (backend) 
 	- Integrate training schedule into website
 	- Create milestones from training schedule (weekly)
 	- Validate if milestones have been reached
-- Frontend
+- Frontend (tentative deadline: 27.5.2026)
 	- GUI
 		- Landing page
 		- User dashboard
@@ -38,6 +39,6 @@ It develops the whole project (with guidance from us). Claude, Gemini (backend) 
 
 **Teamwork and responsibilities**
 Estimated time: 13 – 15 hrs
-To be continued…
+We will both be working on the backend, the Database and the frontend, to ensure quality control and that we are both satisfied with the ai generated content.
 
 
